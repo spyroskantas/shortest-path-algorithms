@@ -32,5 +32,3 @@ void solve(int n, int **graph){
 	for(i=0;i<n;i++) free (graph[i]);
 	free (graph);
 }
-
-
