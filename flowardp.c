@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 #ifdef PATH
-	int	DPATH=1;
+	int DPATH=1;
 #else
-	int	DPATH=0;
+	int DPATH=0;
 #endif
 #define INF 9999
 
