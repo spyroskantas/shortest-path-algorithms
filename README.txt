@@ -1,3 +1,3 @@
 # shortest-path-algorithms
 
-Three different approaches iterative, recursive method
+Three different approaches of shortest-path-finding in a Graph.
