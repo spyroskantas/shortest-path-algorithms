@@ -7,7 +7,6 @@ int srtpath(int i, int j, int k, int **graph, int ***P){
 	
 	int d1,d2,d3;
 	
-	
 	if (k<0) return graph[i][j];
 	
 	//memory
@@ -71,5 +70,3 @@ void solve(int n, int **graph){
 		free (graph[i]);
 	free (graph);
 }
-
-
